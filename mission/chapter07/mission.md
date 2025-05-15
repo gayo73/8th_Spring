@@ -1,5 +1,4 @@
-### 실습 인증
-
+### 실습 
 ![실습1](https://github.com/user-attachments/assets/4862214e-0c58-4dd3-96e7-f61fd2543a73)
 
 ![실습2](https://github.com/user-attachments/assets/002e738b-046a-458a-846c-1cdee3d164d9)
